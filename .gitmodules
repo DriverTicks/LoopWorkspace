@@ -1,6 +1,6 @@
 [submodule "Loop"]
 	path = Loop
-	url=https://github.com/ivalkou/Loop.git
+	url=https://github.com/alekst1d/Loop.git
 	branch = freeaps
 [submodule "LoopKit"]
 	path = LoopKit
@@ -23,8 +23,8 @@
 	branch = dev
 [submodule "rileylink_ios"]
 	path = rileylink_ios
-	url = https://github.com/ps2/rileylink_ios.git
-	branch = dev
+	url = https://github.com/alekst1d/rileylink_ios.git
+	branch = alekst1d_master 
 [submodule "Amplitude-iOS"]
 	path = Amplitude-iOS
 	url = https://github.com/LoopKit/Amplitude-iOS.git
@@ -37,7 +37,8 @@
 	url = https://github.com/ivalkou/NightscoutAPIClient.git
 [submodule "bubble-client-swift"]
 	path = bubble-client-swift
-	url = https://github.com/bubbledevteam/bubble-client-swift
+	url = https://github.com/alekst1d/bubble-client-swift
 [submodule "xdrip-client-swift"]
 	path = xdrip-client-swift
 	url = https://github.com/alekst1d/xdrip-client-swift
+        branch = master
